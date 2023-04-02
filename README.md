@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL:(https://github.com/KarimSalah26/QR-code-component-solution.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://karimsalah26.github.io/QR-code-image/)
 
 ## My process
 
@@ -29,7 +29,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website : (https://github.com/KarimSalah26)endmentor.io/profile/yourusername)
+- Twitter: (https://twitter.com/Karimm_salah)
 
